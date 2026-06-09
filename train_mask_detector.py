@@ -187,4 +187,4 @@ print("[INFO] Saved training_plot.png")
 # ── STEP 10: Save the trained model ──────────────────────
 model.save("mask_detector.h5")
 print("[INFO] Saved mask_detector.h5")
-print("[INFO] Download this file — you need it for the webcam detection script!")
+
